@@ -176,7 +176,7 @@ Game state is persisted via Java object serialization. User accounts and scores 
 
 ## 📄 Report
 
-Full design and implementation report: [`mgoktas24Report.docx`](mgoktas24Report.docx)
+Full design and implementation report: [`Kulatro_Project_Report.docx`](Kulatro_Project_Report.docx)
 
 ---
 
