@@ -1,0 +1,18 @@
+# Compiled Java classes
+kulatro/bin/
+*.class
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# macOS system files
+.DS_Store
+__MACOSX/
+._*
+
+# Runtime-generated data (auto-created on first run)
+kulatro/data/log.txt
+kulatro/data/users.txt
+kulatro/data/saves/

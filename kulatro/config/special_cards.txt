@@ -1,0 +1,17 @@
+# ALCHEMY SET
+ALCHEMY:PhilosophersStone:Doubles the score of the current hand (one-time use)
+ALCHEMY:Transmutation:Swap one card in hand with a random card from deck (doesn't count toward discard limit)
+ALCHEMY:ElementalFusion:If you have at least 2 cards of the same type, treat them as 4 of that type for scoring this round
+ALCHEMY:Catalyst:Increase the multiplier of any "pair" scoring by +1
+
+# ELEMENT SET
+ELEMENT:PeriodicBoost:Add +2 to the numeric value of all cards in current hand
+ELEMENT:NobleGas:Lock one card in place - it cannot be discarded but its value counts twice for scoring
+ELEMENT:IsotopeDecay:Discard your entire hand and draw 4 new cards without using discard limit (one-time)
+ELEMENT:ElectronBond:Create a pair between two different card types - they count as a matching pair for scoring
+
+# QUANTUM SET
+QUANTUM:QuantumEntanglement:Triple the score of one card from the current hand.
+QUANTUM:Superposition:Play two scoring patterns simultaneously - take the better result
+QUANTUM:GluonBind:Merge two cards into one with combined numeric value (max 9), draw one card in its place. (note: if different types are merged, the new card takes the type of the first selected card)
+QUANTUM:PhotonBurst:Reveal the next 3 cards in deck, you may swap one with a card in hand
